@@ -21,6 +21,7 @@ const (
 	publicPort  = "2053"
 	panelPort   = "20530"
 	vlessPort   = "20868"
+	httpport    = "8080"
 	vlessPrefix = "/xvpnws/"
 	subPort     = "2096"
 	subPrefix   = "/sub/"
